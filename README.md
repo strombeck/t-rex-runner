@@ -1,6 +1,6 @@
 the trex runner game extracted from chrome offline err page.
 
 
-[go and enjoy! :smile: ](http://hellokugou.com)
+[go and enjoy (with Konami Code)! :smile: ](https://controller.strombeck.com)
 
-![chrome offline game cast](assets/t-rex-kugou.png)
+![chrome offline game cast](assets/screenshot.png)
